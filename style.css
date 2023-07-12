@@ -10,7 +10,6 @@ body {
   border-radius: 8px;
   border: 0;
   padding: 20px 40px;
-  /* margin-top: 32px; */
 }
 
 .header {
@@ -144,4 +143,159 @@ body {
 
 #name3 {
   margin-right: 240px;
+}
+
+/* Second Last */
+.second-last {
+  border: 8px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  position: relative;
+  padding: 100px 400px 100px 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.last-banner-title {
+  color: #272727;
+
+  font-size: 40px;
+
+  font-weight: 800;
+}
+.last-banner-describtion {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.last-banner-flower {
+  height: 420px;
+  width: 310px;
+}
+.last-banner-content {
+  max-height: 600px;
+}
+
+/* Instagram-sec */
+
+.instagram-sec {
+  text-align: center;
+}
+
+.insta-flower-container {
+  display: flex;
+  justify-content: center;
+  margin-left: 230px;
+  margin-right: 230px;
+  margin-bottom: 120px;
+}
+
+.insta-flower-container img {
+  margin: 10px;
+  height: 350px;
+  width: 300px;
+}
+/* last-last */
+.last-last {
+  height: 450px;
+  width: 1400px;
+  border-radius: 8px;
+  background-image: url("/Flower Asset/Rectangle\ 9.png");
+  background-size: cover;
+  margin-bottom: 100px;
+}
+
+.int-bnt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.last-instagram-sec {
+  margin-top: 0;
+  padding-top: 1px;
+  padding-left: 240px;
+  padding-right: 240px;
+  text-align: center;
+}
+.input {
+  width: 700px;
+  height: 64px;
+  margin-left: 300px;
+  border-radius: 8px;
+  background: #fff;
+}
+.last-first-title {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 24px;
+}
+.last {
+  display: flex;
+  justify-content: center;
+}
+
+/* footer */
+
+.footer {
+  text-align: center;
+  background-color: #111010;
+}
+.last-title {
+  padding-top: 100px;
+  /* margin-top: 100px; */
+  color: #e55473;
+
+  font-size: 48px;
+
+  font-weight: 800;
+}
+.last-color {
+  color: white;
+}
+.last-para {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+
+  font-size: 18px;
+
+  font-weight: 400;
+  line-height: 30px;
+}
+.last-line {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+
+  font-size: 16px;
+
+  font-weight: 400;
+  padding-bottom: 120px;
+}
+
+/* extra */
+
+.extra-sec {
+  text-align: center;
+}
+.extra-para {
+  color: rgba(143, 133, 144, 0.9);
+  text-align: center;
+
+  font-size: 18px;
+
+  font-weight: 400;
+  line-height: 30px;
+}
+.extra-h3 {
+  color: rgb(243, 115, 137);
+}
+.last-change {
+  border-width: 100px;
+  height: 100px;
+  border-radius: 30%;
 }
