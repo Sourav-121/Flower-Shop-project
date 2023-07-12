@@ -102,7 +102,7 @@ body {
 
 #item1 {
   background-color: rgba(167, 33, 98, 0.15);
-  background-image: url("/Flower Asset/pngwing\ 6.png");
+  background-image: url("./Flower Asset/pngwing\ 6.png");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: 300px 400px;
@@ -110,7 +110,7 @@ body {
 }
 #item2 {
   background-color: rgba(5, 151, 160, 0.15);
-  background-image: url("/Flower Asset/pngwing\ 5.png");
+  background-image: url("./Flower Asset/pngwing\ 5.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 370px 370px;
@@ -118,7 +118,7 @@ body {
 }
 #item3 {
   background-color: rgba(71, 125, 17, 0.15);
-  background-image: url("/Flower Asset/pngwing\ 7.png");
+  background-image: url("./Flower Asset/pngwing\ 7.png");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: 310px 470px;
@@ -205,7 +205,7 @@ body {
   height: 450px;
   width: 1400px;
   border-radius: 8px;
-  background-image: url("/Flower Asset/Rectangle\ 9.png");
+  background-image: url("./Flower Asset/Rectangle\ 9.png");
   background-size: cover;
   margin-bottom: 100px;
 }
